@@ -1,0 +1,12 @@
+#box{
+	width:500px;
+	height:500px;
+	background: -webkit-linear-gradient(left,#fff,#000);/*izq to der*/
+	/*background: -webkit-linear-gradient(right,#fff,#000);/*der to izq*/
+	background: -moz-linear-gradient(left,#fff,#000);/*izq to der*/
+	/*background: -moz-linear-gradient(right,#fff,#000);/*der to izq*/
+	background: -ms-linear-gradient(left,#fff,#000);/*izq to der*/
+	/*background: -ms-linear-gradient(right,#fff,#000);/*der to izq*/
+	background: -o-linear-gradient(left,#fff,#000);/*izq to der*/
+	/*background: -o-linear-gradient(right,#fff,#000);/*der to izq*/
+}
