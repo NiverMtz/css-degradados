@@ -1,0 +1,8 @@
+#box{
+	width: 800px;
+	height: 500px;
+
+	/*background: -webkit-radial-gradient(circle farthest-side,black,white 75%,black);*/
+	/*background: -webkit-radial-gradient(left, circle farthest-side, white, white 25%, black, white 75%);*/
+	background: -webkit-radial-gradient(40% 50%, circle closest-side, white, white 25%, black 50%, white 75%, black);
+}
