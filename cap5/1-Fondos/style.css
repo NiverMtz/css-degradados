@@ -1,0 +1,13 @@
+body {
+	background: -webkit-linear-gradient(top,#ededed,#666666);
+	background: -moz-linear-gradient(top,#ededed,#666666);
+	background: -ms-linear-gradient(top,#ededed,#666666);
+	background: -o-linear-gradient(top,#ededed,#666666);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+/* No es una opción muy viable*/
+html {
+	height: 100%;
+}
